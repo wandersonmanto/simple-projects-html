@@ -29,7 +29,3 @@ document.querySelector("#push").onclick = function () {
 
   }
 };
-
-document.querySelector(".delete").onclick = function () {
-  console.log('clicking delete')
-}
